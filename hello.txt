@@ -1,0 +1,4 @@
+hello students!
+
+this is my first session on git
+and i got understood every concepts clearly
